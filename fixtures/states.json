@@ -1,0 +1,372 @@
+[
+    {
+        "model": "django_naija_geo.state",
+        "pk": 1,
+        "fields": {
+            "name": "Abia",
+            "capital": "Umuahia",
+            "slogan": "God's Own State",
+            "zone": 1
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 2,
+        "fields": {
+            "name": "Adamawa",
+            "capital": "Yola",
+            "slogan": "Land of Beauty",
+            "zone": 2
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 3,
+        "fields": {
+            "name": "Akwa Ibom",
+            "capital": "Uyo",
+            "slogan": "Land of Promise",
+            "zone": 3
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 4,
+        "fields": {
+            "name": "Anambra",
+            "capital": "Awka",
+            "slogan": "Light of the Nation",
+            "zone": 1
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 5,
+        "fields": {
+            "name": "Bauchi",
+            "capital": "Bauchi",
+            "slogan": "Pearl of Tourism",
+            "zone": 2
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 6,
+        "fields": {
+            "name": "Bayelsa",
+            "capital": "Yenagoa",
+            "slogan": "Glory of All Lands",
+            "zone": 3
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 7,
+        "fields": {
+            "name": "Benue",
+            "capital": "Makurdi",
+            "slogan": "Food Basket of the Nation",
+            "zone": 4
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 8,
+        "fields": {
+            "name": "Borno",
+            "capital": "Maiduguri",
+            "slogan": "Home of Peace",
+            "zone": 2
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 9,
+        "fields": {
+            "name": "Cross River",
+            "capital": "Calabar",
+            "slogan": "The People's Paradise",
+            "zone": 3
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 10,
+        "fields": {
+            "name": "Delta",
+            "capital": "Asaba",
+            "slogan": "The Big Heart",
+            "zone": 3
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 11,
+        "fields": {
+            "name": "Ebonyi",
+            "capital": "Abakaliki",
+            "slogan": "Salt of the Nation",
+            "zone": 1
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 12,
+        "fields": {
+            "name": "Edo",
+            "capital": "Benin City",
+            "slogan": "Heartbeat of the Nation",
+            "zone": 3
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 13,
+        "fields": {
+            "name": "Ekiti",
+            "capital": "Ado-Ekiti",
+            "slogan": "Land of Honour and Integrity",
+            "zone": 5
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 14,
+        "fields": {
+            "name": "Enugu",
+            "capital": "Enugu",
+            "slogan": "Coal City State",
+            "zone": 1
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 15,
+        "fields": {
+            "name": "Gombe",
+            "capital": "Gombe",
+            "slogan": "Jewel of the Savannah",
+            "zone": 2
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 16,
+        "fields": {
+            "name": "Imo",
+            "capital": "Owerri",
+            "slogan": "Eastern Heartland",
+            "zone": 1
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 17,
+        "fields": {
+            "name": "Jigawa",
+            "capital": "Dutse",
+            "slogan": "The New World",
+            "zone": 6
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 18,
+        "fields": {
+            "name": "Kaduna",
+            "capital": "Kaduna",
+            "slogan": "Centre of Learning",
+            "zone": 6
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 19,
+        "fields": {
+            "name": "Kano",
+            "capital": "Kano",
+            "slogan": "Centre of Commerce",
+            "zone": 6
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 20,
+        "fields": {
+            "name": "Katsina",
+            "capital": "Katsina",
+            "slogan": "Home of Hospitality",
+            "zone": 6
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 21,
+        "fields": {
+            "name": "Kebbi",
+            "capital": "Birnin Kebbi",
+            "slogan": "Land of Equity",
+            "zone": 6
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 22,
+        "fields": {
+            "name": "Kogi",
+            "capital": "Lokoja",
+            "slogan": "The Confluence State",
+            "zone": 4
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 23,
+        "fields": {
+            "name": "Kwara",
+            "capital": "Ilorin",
+            "slogan": "State of Harmony",
+            "zone": 4
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 24,
+        "fields": {
+            "name": "Lagos",
+            "capital": "Ikeja",
+            "slogan": "Centre of Excellence",
+            "zone": 5
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 25,
+        "fields": {
+            "name": "Nasarawa",
+            "capital": "Lafia",
+            "slogan": "Home of Solid Minerals",
+            "zone": 4
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 26,
+        "fields": {
+            "name": "Niger",
+            "capital": "Minna",
+            "slogan": "The Power State",
+            "zone": 4
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 27,
+        "fields": {
+            "name": "Ogun",
+            "capital": "Abeokuta",
+            "slogan": "Gateway State",
+            "zone": 5
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 28,
+        "fields": {
+            "name": "Ondo",
+            "capital": "Akure",
+            "slogan": "Sunshine State",
+            "zone": 5
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 29,
+        "fields": {
+            "name": "Osun",
+            "capital": "Osogbo",
+            "slogan": "State of the Living Spring",
+            "zone": 5
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 30,
+        "fields": {
+            "name": "Oyo",
+            "capital": "Ibadan",
+            "slogan": "Pace-Setter State",
+            "zone": 5
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 31,
+        "fields": {
+            "name": "Plateau",
+            "capital": "Jos",
+            "slogan": "Home of Peace and Tourism",
+            "zone": 4
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 32,
+        "fields": {
+            "name": "Rivers",
+            "capital": "Port Harcourt",
+            "slogan": "Treasure Base of the Nation",
+            "zone": 3
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 33,
+        "fields": {
+            "name": "Sokoto",
+            "capital": "Sokoto",
+            "slogan": "Seat of the Caliphate",
+            "zone": 6
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 34,
+        "fields": {
+            "name": "Taraba",
+            "capital": "Jalingo",
+            "slogan": "Nature's Gift to the Nation",
+            "zone": 2
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 35,
+        "fields": {
+            "name": "Yobe",
+            "capital": "Damaturu",
+            "slogan": "Pride of the Sahel",
+            "zone": 2
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 36,
+        "fields": {
+            "name": "Zamfara",
+            "capital": "Gusau",
+            "slogan": "Farming is Our Pride",
+            "zone": 6
+        }
+    },
+    {
+        "model": "django_naija_geo.state",
+        "pk": 37,
+        "fields": {
+            "name": "Federal Capital Territory",
+            "capital": "Abuja",
+            "slogan": "Centre of Unity",
+            "zone": 4
+        }
+    }
+]
