@@ -1,0 +1,6194 @@
+[
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 1,
+        "fields": {
+            "state": 1,
+            "name": "Aba North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 2,
+        "fields": {
+            "state": 1,
+            "name": "Arochukwu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 3,
+        "fields": {
+            "state": 1,
+            "name": "Aba South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 4,
+        "fields": {
+            "state": 1,
+            "name": "Bende"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 5,
+        "fields": {
+            "state": 1,
+            "name": "Isiala Ngwa North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 6,
+        "fields": {
+            "state": 1,
+            "name": "Ikwuano"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 7,
+        "fields": {
+            "state": 1,
+            "name": "Isiala Ngwa South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 8,
+        "fields": {
+            "state": 1,
+            "name": "Isuikwuato"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 9,
+        "fields": {
+            "state": 1,
+            "name": "Obi Ngwa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 10,
+        "fields": {
+            "state": 1,
+            "name": "Ohafia"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 11,
+        "fields": {
+            "state": 1,
+            "name": "Osisioma"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 12,
+        "fields": {
+            "state": 1,
+            "name": "Ugwunagbo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 13,
+        "fields": {
+            "state": 1,
+            "name": "Ukwa East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 14,
+        "fields": {
+            "state": 1,
+            "name": "Ukwa West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 15,
+        "fields": {
+            "state": 1,
+            "name": "Umuahia North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 16,
+        "fields": {
+            "state": 1,
+            "name": "Umuahia South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 17,
+        "fields": {
+            "state": 1,
+            "name": "Umu Nneochi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 18,
+        "fields": {
+            "state": 2,
+            "name": "Demsa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 19,
+        "fields": {
+            "state": 2,
+            "name": "Fufure"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 20,
+        "fields": {
+            "state": 2,
+            "name": "Ganye"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 21,
+        "fields": {
+            "state": 2,
+            "name": "Gayuk"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 22,
+        "fields": {
+            "state": 2,
+            "name": "Gombi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 23,
+        "fields": {
+            "state": 2,
+            "name": "Grie"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 24,
+        "fields": {
+            "state": 2,
+            "name": "Hong"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 25,
+        "fields": {
+            "state": 2,
+            "name": "Jada"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 26,
+        "fields": {
+            "state": 2,
+            "name": "Larmurde"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 27,
+        "fields": {
+            "state": 2,
+            "name": "Madagali"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 28,
+        "fields": {
+            "state": 2,
+            "name": "Maiha"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 29,
+        "fields": {
+            "state": 2,
+            "name": "Mayo Belwa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 30,
+        "fields": {
+            "state": 2,
+            "name": "Michika"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 31,
+        "fields": {
+            "state": 2,
+            "name": "Mubi North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 32,
+        "fields": {
+            "state": 2,
+            "name": "Mubi South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 33,
+        "fields": {
+            "state": 2,
+            "name": "Numan"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 34,
+        "fields": {
+            "state": 2,
+            "name": "Shelleng"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 35,
+        "fields": {
+            "state": 2,
+            "name": "Song"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 36,
+        "fields": {
+            "state": 2,
+            "name": "Toungo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 37,
+        "fields": {
+            "state": 2,
+            "name": "Yola North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 38,
+        "fields": {
+            "state": 2,
+            "name": "Yola South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 39,
+        "fields": {
+            "state": 3,
+            "name": "Abak"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 40,
+        "fields": {
+            "state": 3,
+            "name": "Eastern Obolo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 41,
+        "fields": {
+            "state": 3,
+            "name": "Eket"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 42,
+        "fields": {
+            "state": 3,
+            "name": "Esit Eket"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 43,
+        "fields": {
+            "state": 3,
+            "name": "Essien Udim"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 44,
+        "fields": {
+            "state": 3,
+            "name": "Etim Ekpo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 45,
+        "fields": {
+            "state": 3,
+            "name": "Etinan"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 46,
+        "fields": {
+            "state": 3,
+            "name": "Ibeno"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 47,
+        "fields": {
+            "state": 3,
+            "name": "Ibesikpo Asutan"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 48,
+        "fields": {
+            "state": 3,
+            "name": "Ibiono-Ibom"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 49,
+        "fields": {
+            "state": 3,
+            "name": "Ikot Abasi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 50,
+        "fields": {
+            "state": 3,
+            "name": "Ika"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 51,
+        "fields": {
+            "state": 3,
+            "name": "Ikono"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 52,
+        "fields": {
+            "state": 3,
+            "name": "Ikot Ekpene"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 53,
+        "fields": {
+            "state": 3,
+            "name": "Ini"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 54,
+        "fields": {
+            "state": 3,
+            "name": "Mkpat-Enin"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 55,
+        "fields": {
+            "state": 3,
+            "name": "Itu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 56,
+        "fields": {
+            "state": 3,
+            "name": "Mbo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 57,
+        "fields": {
+            "state": 3,
+            "name": "Nsit-Atai"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 58,
+        "fields": {
+            "state": 3,
+            "name": "Nsit-Ibom"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 59,
+        "fields": {
+            "state": 3,
+            "name": "Nsit-Ubium"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 60,
+        "fields": {
+            "state": 3,
+            "name": "Obot Akara"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 61,
+        "fields": {
+            "state": 3,
+            "name": "Okobo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 62,
+        "fields": {
+            "state": 3,
+            "name": "Onna"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 63,
+        "fields": {
+            "state": 3,
+            "name": "Oron"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 64,
+        "fields": {
+            "state": 3,
+            "name": "Udung-Uko"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 65,
+        "fields": {
+            "state": 3,
+            "name": "Ukanafun"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 66,
+        "fields": {
+            "state": 3,
+            "name": "Oruk Anam"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 67,
+        "fields": {
+            "state": 3,
+            "name": "Uruan"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 68,
+        "fields": {
+            "state": 3,
+            "name": "Urue-Offong/Oruko"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 69,
+        "fields": {
+            "state": 3,
+            "name": "Uyo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 70,
+        "fields": {
+            "state": 4,
+            "name": "Aguata"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 71,
+        "fields": {
+            "state": 4,
+            "name": "Anambra East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 72,
+        "fields": {
+            "state": 4,
+            "name": "Anaocha"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 73,
+        "fields": {
+            "state": 4,
+            "name": "Awka North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 74,
+        "fields": {
+            "state": 4,
+            "name": "Anambra West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 75,
+        "fields": {
+            "state": 4,
+            "name": "Awka South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 76,
+        "fields": {
+            "state": 4,
+            "name": "Ayamelum"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 77,
+        "fields": {
+            "state": 4,
+            "name": "Dunukofia"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 78,
+        "fields": {
+            "state": 4,
+            "name": "Ekwusigo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 79,
+        "fields": {
+            "state": 4,
+            "name": "Idemili North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 80,
+        "fields": {
+            "state": 4,
+            "name": "Idemili South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 81,
+        "fields": {
+            "state": 4,
+            "name": "Ihiala"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 82,
+        "fields": {
+            "state": 4,
+            "name": "Njikoka"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 83,
+        "fields": {
+            "state": 4,
+            "name": "Nnewi North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 84,
+        "fields": {
+            "state": 4,
+            "name": "Nnewi South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 85,
+        "fields": {
+            "state": 4,
+            "name": "Ogbaru"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 86,
+        "fields": {
+            "state": 4,
+            "name": "Onitsha North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 87,
+        "fields": {
+            "state": 4,
+            "name": "Onitsha South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 88,
+        "fields": {
+            "state": 4,
+            "name": "Orumba North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 89,
+        "fields": {
+            "state": 4,
+            "name": "Orumba South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 90,
+        "fields": {
+            "state": 4,
+            "name": "Oyi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 91,
+        "fields": {
+            "state": 5,
+            "name": "Alkaleri"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 92,
+        "fields": {
+            "state": 5,
+            "name": "Bauchi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 93,
+        "fields": {
+            "state": 5,
+            "name": "Bogoro"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 94,
+        "fields": {
+            "state": 5,
+            "name": "Damban"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 95,
+        "fields": {
+            "state": 5,
+            "name": "Darazo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 96,
+        "fields": {
+            "state": 5,
+            "name": "Dass"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 97,
+        "fields": {
+            "state": 5,
+            "name": "Gamawa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 98,
+        "fields": {
+            "state": 5,
+            "name": "Ganjuwa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 99,
+        "fields": {
+            "state": 5,
+            "name": "Giade"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 100,
+        "fields": {
+            "state": 5,
+            "name": "Itas/Gadau"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 101,
+        "fields": {
+            "state": 5,
+            "name": "Jama'are"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 102,
+        "fields": {
+            "state": 5,
+            "name": "Katagum"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 103,
+        "fields": {
+            "state": 5,
+            "name": "Kirfi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 104,
+        "fields": {
+            "state": 5,
+            "name": "Misau"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 105,
+        "fields": {
+            "state": 5,
+            "name": "Ningi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 106,
+        "fields": {
+            "state": 5,
+            "name": "Shira"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 107,
+        "fields": {
+            "state": 5,
+            "name": "Tafawa Balewa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 108,
+        "fields": {
+            "state": 5,
+            "name": "Toro"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 109,
+        "fields": {
+            "state": 5,
+            "name": "Warji"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 110,
+        "fields": {
+            "state": 5,
+            "name": "Zaki"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 111,
+        "fields": {
+            "state": 6,
+            "name": "Brass"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 112,
+        "fields": {
+            "state": 6,
+            "name": "Ekeremor"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 113,
+        "fields": {
+            "state": 6,
+            "name": "Kolokuma/Opokuma"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 114,
+        "fields": {
+            "state": 6,
+            "name": "Nembe"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 115,
+        "fields": {
+            "state": 6,
+            "name": "Ogbia"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 116,
+        "fields": {
+            "state": 6,
+            "name": "Sagbama"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 117,
+        "fields": {
+            "state": 6,
+            "name": "Southern Ijaw"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 118,
+        "fields": {
+            "state": 6,
+            "name": "Yenagoa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 119,
+        "fields": {
+            "state": 7,
+            "name": "Agatu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 120,
+        "fields": {
+            "state": 7,
+            "name": "Apa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 121,
+        "fields": {
+            "state": 7,
+            "name": "Ado"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 122,
+        "fields": {
+            "state": 7,
+            "name": "Buruku"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 123,
+        "fields": {
+            "state": 7,
+            "name": "Gboko"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 124,
+        "fields": {
+            "state": 7,
+            "name": "Guma"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 125,
+        "fields": {
+            "state": 7,
+            "name": "Gwer East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 126,
+        "fields": {
+            "state": 7,
+            "name": "Gwer West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 127,
+        "fields": {
+            "state": 7,
+            "name": "Katsina-Ala"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 128,
+        "fields": {
+            "state": 7,
+            "name": "Konshisha"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 129,
+        "fields": {
+            "state": 7,
+            "name": "Kwande"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 130,
+        "fields": {
+            "state": 7,
+            "name": "Logo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 131,
+        "fields": {
+            "state": 7,
+            "name": "Makurdi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 132,
+        "fields": {
+            "state": 7,
+            "name": "Obi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 133,
+        "fields": {
+            "state": 7,
+            "name": "Ogbadibo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 134,
+        "fields": {
+            "state": 7,
+            "name": "Ohimini"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 135,
+        "fields": {
+            "state": 7,
+            "name": "Oju"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 136,
+        "fields": {
+            "state": 7,
+            "name": "Okpokwu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 137,
+        "fields": {
+            "state": 7,
+            "name": "Oturkpo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 138,
+        "fields": {
+            "state": 7,
+            "name": "Tarka"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 139,
+        "fields": {
+            "state": 7,
+            "name": "Ukum"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 140,
+        "fields": {
+            "state": 7,
+            "name": "Ushongo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 141,
+        "fields": {
+            "state": 7,
+            "name": "Vandeikya"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 142,
+        "fields": {
+            "state": 8,
+            "name": "Abadam"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 143,
+        "fields": {
+            "state": 8,
+            "name": "Askira/Uba"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 144,
+        "fields": {
+            "state": 8,
+            "name": "Bama"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 145,
+        "fields": {
+            "state": 8,
+            "name": "Bayo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 146,
+        "fields": {
+            "state": 8,
+            "name": "Biu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 147,
+        "fields": {
+            "state": 8,
+            "name": "Chibok"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 148,
+        "fields": {
+            "state": 8,
+            "name": "Damboa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 149,
+        "fields": {
+            "state": 8,
+            "name": "Dikwa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 150,
+        "fields": {
+            "state": 8,
+            "name": "Guzamala"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 151,
+        "fields": {
+            "state": 8,
+            "name": "Gubio"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 152,
+        "fields": {
+            "state": 8,
+            "name": "Hawul"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 153,
+        "fields": {
+            "state": 8,
+            "name": "Gwoza"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 154,
+        "fields": {
+            "state": 8,
+            "name": "Jere"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 155,
+        "fields": {
+            "state": 8,
+            "name": "Kaga"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 156,
+        "fields": {
+            "state": 8,
+            "name": "Kala/Balge"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 157,
+        "fields": {
+            "state": 8,
+            "name": "Konduga"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 158,
+        "fields": {
+            "state": 8,
+            "name": "Kukawa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 159,
+        "fields": {
+            "state": 8,
+            "name": "Kwaya Kusar"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 160,
+        "fields": {
+            "state": 8,
+            "name": "Mafa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 161,
+        "fields": {
+            "state": 8,
+            "name": "Magumeri"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 162,
+        "fields": {
+            "state": 8,
+            "name": "Maiduguri"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 163,
+        "fields": {
+            "state": 8,
+            "name": "Mobbar"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 164,
+        "fields": {
+            "state": 8,
+            "name": "Marte"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 165,
+        "fields": {
+            "state": 8,
+            "name": "Monguno"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 166,
+        "fields": {
+            "state": 8,
+            "name": "Ngala"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 167,
+        "fields": {
+            "state": 8,
+            "name": "Nganzai"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 168,
+        "fields": {
+            "state": 8,
+            "name": "Shani"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 169,
+        "fields": {
+            "state": 9,
+            "name": "Abi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 170,
+        "fields": {
+            "state": 9,
+            "name": "Akamkpa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 171,
+        "fields": {
+            "state": 9,
+            "name": "Akpabuyo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 172,
+        "fields": {
+            "state": 9,
+            "name": "Bakassi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 173,
+        "fields": {
+            "state": 9,
+            "name": "Bekwarra"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 174,
+        "fields": {
+            "state": 9,
+            "name": "Biase"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 175,
+        "fields": {
+            "state": 9,
+            "name": "Boki"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 176,
+        "fields": {
+            "state": 9,
+            "name": "Calabar Municipal"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 177,
+        "fields": {
+            "state": 9,
+            "name": "Calabar South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 178,
+        "fields": {
+            "state": 9,
+            "name": "Etung"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 179,
+        "fields": {
+            "state": 9,
+            "name": "Ikom"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 180,
+        "fields": {
+            "state": 9,
+            "name": "Obanliku"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 181,
+        "fields": {
+            "state": 9,
+            "name": "Obubra"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 182,
+        "fields": {
+            "state": 9,
+            "name": "Obudu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 183,
+        "fields": {
+            "state": 9,
+            "name": "Odukpani"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 184,
+        "fields": {
+            "state": 9,
+            "name": "Ogoja"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 185,
+        "fields": {
+            "state": 9,
+            "name": "Yakuur"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 186,
+        "fields": {
+            "state": 9,
+            "name": "Yala"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 187,
+        "fields": {
+            "state": 10,
+            "name": "Aniocha North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 188,
+        "fields": {
+            "state": 10,
+            "name": "Aniocha South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 189,
+        "fields": {
+            "state": 10,
+            "name": "Bomadi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 190,
+        "fields": {
+            "state": 10,
+            "name": "Burutu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 191,
+        "fields": {
+            "state": 10,
+            "name": "Ethiope West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 192,
+        "fields": {
+            "state": 10,
+            "name": "Ethiope East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 193,
+        "fields": {
+            "state": 10,
+            "name": "Ika North East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 194,
+        "fields": {
+            "state": 10,
+            "name": "Ika South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 195,
+        "fields": {
+            "state": 10,
+            "name": "Isoko North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 196,
+        "fields": {
+            "state": 10,
+            "name": "Isoko South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 197,
+        "fields": {
+            "state": 10,
+            "name": "Ndokwa East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 198,
+        "fields": {
+            "state": 10,
+            "name": "Ndokwa West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 199,
+        "fields": {
+            "state": 10,
+            "name": "Okpe"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 200,
+        "fields": {
+            "state": 10,
+            "name": "Oshimili North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 201,
+        "fields": {
+            "state": 10,
+            "name": "Oshimili South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 202,
+        "fields": {
+            "state": 10,
+            "name": "Patani"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 203,
+        "fields": {
+            "state": 10,
+            "name": "Sapele"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 204,
+        "fields": {
+            "state": 10,
+            "name": "Udu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 205,
+        "fields": {
+            "state": 10,
+            "name": "Ughelli North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 206,
+        "fields": {
+            "state": 10,
+            "name": "Ukwuani"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 207,
+        "fields": {
+            "state": 10,
+            "name": "Ughelli South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 208,
+        "fields": {
+            "state": 10,
+            "name": "Uvwie"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 209,
+        "fields": {
+            "state": 10,
+            "name": "Warri North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 210,
+        "fields": {
+            "state": 10,
+            "name": "Warri South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 211,
+        "fields": {
+            "state": 10,
+            "name": "Warri South West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 212,
+        "fields": {
+            "state": 11,
+            "name": "Abakaliki"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 213,
+        "fields": {
+            "state": 11,
+            "name": "Afikpo North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 214,
+        "fields": {
+            "state": 11,
+            "name": "Ebonyi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 215,
+        "fields": {
+            "state": 11,
+            "name": "Afikpo South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 216,
+        "fields": {
+            "state": 11,
+            "name": "Ezza North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 217,
+        "fields": {
+            "state": 11,
+            "name": "Ikwo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 218,
+        "fields": {
+            "state": 11,
+            "name": "Ezza South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 219,
+        "fields": {
+            "state": 11,
+            "name": "Ivo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 220,
+        "fields": {
+            "state": 11,
+            "name": "Ishielu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 221,
+        "fields": {
+            "state": 11,
+            "name": "Izzi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 222,
+        "fields": {
+            "state": 11,
+            "name": "Ohaozara"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 223,
+        "fields": {
+            "state": 11,
+            "name": "Ohaukwu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 224,
+        "fields": {
+            "state": 11,
+            "name": "Onicha"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 225,
+        "fields": {
+            "state": 12,
+            "name": "Akoko-Edo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 226,
+        "fields": {
+            "state": 12,
+            "name": "Egor"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 227,
+        "fields": {
+            "state": 12,
+            "name": "Esan Central"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 228,
+        "fields": {
+            "state": 12,
+            "name": "Esan North-East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 229,
+        "fields": {
+            "state": 12,
+            "name": "Esan South-East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 230,
+        "fields": {
+            "state": 12,
+            "name": "Esan West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 231,
+        "fields": {
+            "state": 12,
+            "name": "Etsako Central"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 232,
+        "fields": {
+            "state": 12,
+            "name": "Etsako East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 233,
+        "fields": {
+            "state": 12,
+            "name": "Etsako West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 234,
+        "fields": {
+            "state": 12,
+            "name": "Igueben"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 235,
+        "fields": {
+            "state": 12,
+            "name": "Ikpoba Okha"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 236,
+        "fields": {
+            "state": 12,
+            "name": "Orhionmwon"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 237,
+        "fields": {
+            "state": 12,
+            "name": "Oredo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 238,
+        "fields": {
+            "state": 12,
+            "name": "Ovia North-East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 239,
+        "fields": {
+            "state": 12,
+            "name": "Ovia South-West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 240,
+        "fields": {
+            "state": 12,
+            "name": "Owan East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 241,
+        "fields": {
+            "state": 12,
+            "name": "Owan West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 242,
+        "fields": {
+            "state": 12,
+            "name": "Uhunmwonde"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 243,
+        "fields": {
+            "state": 13,
+            "name": "Ado Ekiti"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 244,
+        "fields": {
+            "state": 13,
+            "name": "Efon"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 245,
+        "fields": {
+            "state": 13,
+            "name": "Ekiti East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 246,
+        "fields": {
+            "state": 13,
+            "name": "Ekiti South-West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 247,
+        "fields": {
+            "state": 13,
+            "name": "Ekiti West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 248,
+        "fields": {
+            "state": 13,
+            "name": "Emure"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 249,
+        "fields": {
+            "state": 13,
+            "name": "Gbonyin"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 250,
+        "fields": {
+            "state": 13,
+            "name": "Ido Osi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 251,
+        "fields": {
+            "state": 13,
+            "name": "Ijero"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 252,
+        "fields": {
+            "state": 13,
+            "name": "Ikere"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 253,
+        "fields": {
+            "state": 13,
+            "name": "Ilejemeje"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 254,
+        "fields": {
+            "state": 13,
+            "name": "Irepodun/Ifelodun"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 255,
+        "fields": {
+            "state": 13,
+            "name": "Ikole"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 256,
+        "fields": {
+            "state": 13,
+            "name": "Ise/Orun"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 257,
+        "fields": {
+            "state": 13,
+            "name": "Moba"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 258,
+        "fields": {
+            "state": 13,
+            "name": "Oye"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 259,
+        "fields": {
+            "state": 14,
+            "name": "Awgu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 260,
+        "fields": {
+            "state": 14,
+            "name": "Aninri"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 261,
+        "fields": {
+            "state": 14,
+            "name": "Enugu East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 262,
+        "fields": {
+            "state": 14,
+            "name": "Enugu North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 263,
+        "fields": {
+            "state": 14,
+            "name": "Ezeagu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 264,
+        "fields": {
+            "state": 14,
+            "name": "Enugu South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 265,
+        "fields": {
+            "state": 14,
+            "name": "Igbo Etiti"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 266,
+        "fields": {
+            "state": 14,
+            "name": "Igbo Eze North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 267,
+        "fields": {
+            "state": 14,
+            "name": "Igbo Eze South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 268,
+        "fields": {
+            "state": 14,
+            "name": "Isi Uzo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 269,
+        "fields": {
+            "state": 14,
+            "name": "Nkanu East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 270,
+        "fields": {
+            "state": 14,
+            "name": "Nkanu West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 271,
+        "fields": {
+            "state": 14,
+            "name": "Nsukka"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 272,
+        "fields": {
+            "state": 14,
+            "name": "Udenu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 273,
+        "fields": {
+            "state": 14,
+            "name": "Oji River"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 274,
+        "fields": {
+            "state": 14,
+            "name": "Uzo Uwani"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 275,
+        "fields": {
+            "state": 14,
+            "name": "Udi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 276,
+        "fields": {
+            "state": 15,
+            "name": "Akko"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 277,
+        "fields": {
+            "state": 15,
+            "name": "Balanga"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 278,
+        "fields": {
+            "state": 15,
+            "name": "Billiri"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 279,
+        "fields": {
+            "state": 15,
+            "name": "Dukku"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 280,
+        "fields": {
+            "state": 15,
+            "name": "Funakaye"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 281,
+        "fields": {
+            "state": 15,
+            "name": "Gombe"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 282,
+        "fields": {
+            "state": 15,
+            "name": "Kaltungo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 283,
+        "fields": {
+            "state": 15,
+            "name": "Kwami"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 284,
+        "fields": {
+            "state": 15,
+            "name": "Nafada"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 285,
+        "fields": {
+            "state": 15,
+            "name": "Shongom"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 286,
+        "fields": {
+            "state": 15,
+            "name": "Yamaltu/Deba"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 287,
+        "fields": {
+            "state": 16,
+            "name": "Aboh Mbaise"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 288,
+        "fields": {
+            "state": 16,
+            "name": "Ahiazu Mbaise"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 289,
+        "fields": {
+            "state": 16,
+            "name": "Ehime Mbano"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 290,
+        "fields": {
+            "state": 16,
+            "name": "Ezinihitte"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 291,
+        "fields": {
+            "state": 16,
+            "name": "Ideato North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 292,
+        "fields": {
+            "state": 16,
+            "name": "Ideato South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 293,
+        "fields": {
+            "state": 16,
+            "name": "Ihitte/Uboma"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 294,
+        "fields": {
+            "state": 16,
+            "name": "Ikeduru"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 295,
+        "fields": {
+            "state": 16,
+            "name": "Isiala Mbano"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 296,
+        "fields": {
+            "state": 16,
+            "name": "Mbaitoli"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 297,
+        "fields": {
+            "state": 16,
+            "name": "Isu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 298,
+        "fields": {
+            "state": 16,
+            "name": "Ngor Okpala"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 299,
+        "fields": {
+            "state": 16,
+            "name": "Njaba"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 300,
+        "fields": {
+            "state": 16,
+            "name": "Nkwerre"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 301,
+        "fields": {
+            "state": 16,
+            "name": "Nwangele"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 302,
+        "fields": {
+            "state": 16,
+            "name": "Obowo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 303,
+        "fields": {
+            "state": 16,
+            "name": "Oguta"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 304,
+        "fields": {
+            "state": 16,
+            "name": "Ohaji/Egbema"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 305,
+        "fields": {
+            "state": 16,
+            "name": "Okigwe"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 306,
+        "fields": {
+            "state": 16,
+            "name": "Orlu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 307,
+        "fields": {
+            "state": 16,
+            "name": "Orsu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 308,
+        "fields": {
+            "state": 16,
+            "name": "Oru East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 309,
+        "fields": {
+            "state": 16,
+            "name": "Oru West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 310,
+        "fields": {
+            "state": 16,
+            "name": "Owerri Municipal"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 311,
+        "fields": {
+            "state": 16,
+            "name": "Owerri North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 312,
+        "fields": {
+            "state": 16,
+            "name": "Unuimo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 313,
+        "fields": {
+            "state": 16,
+            "name": "Owerri West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 314,
+        "fields": {
+            "state": 17,
+            "name": "Auyo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 315,
+        "fields": {
+            "state": 17,
+            "name": "Babura"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 316,
+        "fields": {
+            "state": 17,
+            "name": "Buji"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 317,
+        "fields": {
+            "state": 17,
+            "name": "Biriniwa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 318,
+        "fields": {
+            "state": 17,
+            "name": "Birnin Kudu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 319,
+        "fields": {
+            "state": 17,
+            "name": "Dutse"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 320,
+        "fields": {
+            "state": 17,
+            "name": "Gagarawa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 321,
+        "fields": {
+            "state": 17,
+            "name": "Garki"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 322,
+        "fields": {
+            "state": 17,
+            "name": "Gumel"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 323,
+        "fields": {
+            "state": 17,
+            "name": "Guri"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 324,
+        "fields": {
+            "state": 17,
+            "name": "Gwaram"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 325,
+        "fields": {
+            "state": 17,
+            "name": "Gwiwa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 326,
+        "fields": {
+            "state": 17,
+            "name": "Hadejia"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 327,
+        "fields": {
+            "state": 17,
+            "name": "Jahun"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 328,
+        "fields": {
+            "state": 17,
+            "name": "Kafin Hausa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 329,
+        "fields": {
+            "state": 17,
+            "name": "Kazaure"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 330,
+        "fields": {
+            "state": 17,
+            "name": "Kiri Kasama"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 331,
+        "fields": {
+            "state": 17,
+            "name": "Kiyawa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 332,
+        "fields": {
+            "state": 17,
+            "name": "Kaugama"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 333,
+        "fields": {
+            "state": 17,
+            "name": "Maigatari"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 334,
+        "fields": {
+            "state": 17,
+            "name": "Malam Madori"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 335,
+        "fields": {
+            "state": 17,
+            "name": "Miga"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 336,
+        "fields": {
+            "state": 17,
+            "name": "Sule Tankarkar"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 337,
+        "fields": {
+            "state": 17,
+            "name": "Roni"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 338,
+        "fields": {
+            "state": 17,
+            "name": "Ringim"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 339,
+        "fields": {
+            "state": 17,
+            "name": "Yankwashi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 340,
+        "fields": {
+            "state": 17,
+            "name": "Taura"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 341,
+        "fields": {
+            "state": 18,
+            "name": "Birnin Gwari"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 342,
+        "fields": {
+            "state": 18,
+            "name": "Chikun"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 343,
+        "fields": {
+            "state": 18,
+            "name": "Giwa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 344,
+        "fields": {
+            "state": 18,
+            "name": "Ikara"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 345,
+        "fields": {
+            "state": 18,
+            "name": "Igabi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 346,
+        "fields": {
+            "state": 18,
+            "name": "Jaba"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 347,
+        "fields": {
+            "state": 18,
+            "name": "Jema'a"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 348,
+        "fields": {
+            "state": 18,
+            "name": "Kachia"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 349,
+        "fields": {
+            "state": 18,
+            "name": "Kaduna North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 350,
+        "fields": {
+            "state": 18,
+            "name": "Kaduna South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 351,
+        "fields": {
+            "state": 18,
+            "name": "Kagarko"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 352,
+        "fields": {
+            "state": 18,
+            "name": "Kajuru"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 353,
+        "fields": {
+            "state": 18,
+            "name": "Kaura"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 354,
+        "fields": {
+            "state": 18,
+            "name": "Kauru"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 355,
+        "fields": {
+            "state": 18,
+            "name": "Kubau"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 356,
+        "fields": {
+            "state": 18,
+            "name": "Kudan"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 357,
+        "fields": {
+            "state": 18,
+            "name": "Lere"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 358,
+        "fields": {
+            "state": 18,
+            "name": "Makarfi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 359,
+        "fields": {
+            "state": 18,
+            "name": "Sabon Gari"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 360,
+        "fields": {
+            "state": 18,
+            "name": "Sanga"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 361,
+        "fields": {
+            "state": 18,
+            "name": "Soba"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 362,
+        "fields": {
+            "state": 18,
+            "name": "Zangon Kataf"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 363,
+        "fields": {
+            "state": 18,
+            "name": "Zaria"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 364,
+        "fields": {
+            "state": 19,
+            "name": "Ajingi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 365,
+        "fields": {
+            "state": 19,
+            "name": "Albasu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 366,
+        "fields": {
+            "state": 19,
+            "name": "Bagwai"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 367,
+        "fields": {
+            "state": 19,
+            "name": "Bebeji"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 368,
+        "fields": {
+            "state": 19,
+            "name": "Bichi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 369,
+        "fields": {
+            "state": 19,
+            "name": "Bunkure"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 370,
+        "fields": {
+            "state": 19,
+            "name": "Dala"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 371,
+        "fields": {
+            "state": 19,
+            "name": "Dambatta"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 372,
+        "fields": {
+            "state": 19,
+            "name": "Dawakin Kudu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 373,
+        "fields": {
+            "state": 19,
+            "name": "Dawakin Tofa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 374,
+        "fields": {
+            "state": 19,
+            "name": "Doguwa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 375,
+        "fields": {
+            "state": 19,
+            "name": "Fagge"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 376,
+        "fields": {
+            "state": 19,
+            "name": "Gabasawa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 377,
+        "fields": {
+            "state": 19,
+            "name": "Garko"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 378,
+        "fields": {
+            "state": 19,
+            "name": "Garun Mallam"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 379,
+        "fields": {
+            "state": 19,
+            "name": "Gezawa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 380,
+        "fields": {
+            "state": 19,
+            "name": "Gaya"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 381,
+        "fields": {
+            "state": 19,
+            "name": "Gwale"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 382,
+        "fields": {
+            "state": 19,
+            "name": "Gwarzo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 383,
+        "fields": {
+            "state": 19,
+            "name": "Kabo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 384,
+        "fields": {
+            "state": 19,
+            "name": "Kano Municipal"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 385,
+        "fields": {
+            "state": 19,
+            "name": "Karaye"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 386,
+        "fields": {
+            "state": 19,
+            "name": "Kibiya"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 387,
+        "fields": {
+            "state": 19,
+            "name": "Kiru"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 388,
+        "fields": {
+            "state": 19,
+            "name": "Kumbotso"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 389,
+        "fields": {
+            "state": 19,
+            "name": "Kunchi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 390,
+        "fields": {
+            "state": 19,
+            "name": "Kura"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 391,
+        "fields": {
+            "state": 19,
+            "name": "Madobi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 392,
+        "fields": {
+            "state": 19,
+            "name": "Makoda"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 393,
+        "fields": {
+            "state": 19,
+            "name": "Minjibir"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 394,
+        "fields": {
+            "state": 19,
+            "name": "Nasarawa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 395,
+        "fields": {
+            "state": 19,
+            "name": "Rano"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 396,
+        "fields": {
+            "state": 19,
+            "name": "Rimin Gado"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 397,
+        "fields": {
+            "state": 19,
+            "name": "Rogo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 398,
+        "fields": {
+            "state": 19,
+            "name": "Shanono"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 399,
+        "fields": {
+            "state": 19,
+            "name": "Takai"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 400,
+        "fields": {
+            "state": 19,
+            "name": "Sumaila"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 401,
+        "fields": {
+            "state": 19,
+            "name": "Tarauni"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 402,
+        "fields": {
+            "state": 19,
+            "name": "Tofa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 403,
+        "fields": {
+            "state": 19,
+            "name": "Tsanyawa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 404,
+        "fields": {
+            "state": 19,
+            "name": "Tudun Wada"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 405,
+        "fields": {
+            "state": 19,
+            "name": "Ungogo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 406,
+        "fields": {
+            "state": 19,
+            "name": "Warawa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 407,
+        "fields": {
+            "state": 19,
+            "name": "Wudil"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 408,
+        "fields": {
+            "state": 20,
+            "name": "Bakori"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 409,
+        "fields": {
+            "state": 20,
+            "name": "Batagarawa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 410,
+        "fields": {
+            "state": 20,
+            "name": "Batsari"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 411,
+        "fields": {
+            "state": 20,
+            "name": "Baure"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 412,
+        "fields": {
+            "state": 20,
+            "name": "Bindawa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 413,
+        "fields": {
+            "state": 20,
+            "name": "Charanchi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 414,
+        "fields": {
+            "state": 20,
+            "name": "Danja"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 415,
+        "fields": {
+            "state": 20,
+            "name": "Dandume"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 416,
+        "fields": {
+            "state": 20,
+            "name": "Dan Musa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 417,
+        "fields": {
+            "state": 20,
+            "name": "Daura"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 418,
+        "fields": {
+            "state": 20,
+            "name": "Dutsi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 419,
+        "fields": {
+            "state": 20,
+            "name": "Dutsin Ma"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 420,
+        "fields": {
+            "state": 20,
+            "name": "Faskari"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 421,
+        "fields": {
+            "state": 20,
+            "name": "Funtua"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 422,
+        "fields": {
+            "state": 20,
+            "name": "Ingawa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 423,
+        "fields": {
+            "state": 20,
+            "name": "Jibia"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 424,
+        "fields": {
+            "state": 20,
+            "name": "Kafur"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 425,
+        "fields": {
+            "state": 20,
+            "name": "Kaita"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 426,
+        "fields": {
+            "state": 20,
+            "name": "Kankara"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 427,
+        "fields": {
+            "state": 20,
+            "name": "Kankia"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 428,
+        "fields": {
+            "state": 20,
+            "name": "Katsina"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 429,
+        "fields": {
+            "state": 20,
+            "name": "Kurfi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 430,
+        "fields": {
+            "state": 20,
+            "name": "Kusada"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 431,
+        "fields": {
+            "state": 20,
+            "name": "Mai'Adua"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 432,
+        "fields": {
+            "state": 20,
+            "name": "Malumfashi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 433,
+        "fields": {
+            "state": 20,
+            "name": "Mani"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 434,
+        "fields": {
+            "state": 20,
+            "name": "Mashi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 435,
+        "fields": {
+            "state": 20,
+            "name": "Matazu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 436,
+        "fields": {
+            "state": 20,
+            "name": "Musawa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 437,
+        "fields": {
+            "state": 20,
+            "name": "Rimi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 438,
+        "fields": {
+            "state": 20,
+            "name": "Sabuwa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 439,
+        "fields": {
+            "state": 20,
+            "name": "Safana"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 440,
+        "fields": {
+            "state": 20,
+            "name": "Sandamu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 441,
+        "fields": {
+            "state": 20,
+            "name": "Zango"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 442,
+        "fields": {
+            "state": 21,
+            "name": "Aleiro"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 443,
+        "fields": {
+            "state": 21,
+            "name": "Argungu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 444,
+        "fields": {
+            "state": 21,
+            "name": "Arewa Dandi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 445,
+        "fields": {
+            "state": 21,
+            "name": "Augie"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 446,
+        "fields": {
+            "state": 21,
+            "name": "Bagudo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 447,
+        "fields": {
+            "state": 21,
+            "name": "Birnin Kebbi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 448,
+        "fields": {
+            "state": 21,
+            "name": "Bunza"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 449,
+        "fields": {
+            "state": 21,
+            "name": "Dandi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 450,
+        "fields": {
+            "state": 21,
+            "name": "Fakai"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 451,
+        "fields": {
+            "state": 21,
+            "name": "Gwandu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 452,
+        "fields": {
+            "state": 21,
+            "name": "Jega"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 453,
+        "fields": {
+            "state": 21,
+            "name": "Kalgo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 454,
+        "fields": {
+            "state": 21,
+            "name": "Koko/Besse"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 455,
+        "fields": {
+            "state": 21,
+            "name": "Maiyama"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 456,
+        "fields": {
+            "state": 21,
+            "name": "Ngaski"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 457,
+        "fields": {
+            "state": 21,
+            "name": "Shanga"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 458,
+        "fields": {
+            "state": 21,
+            "name": "Suru"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 459,
+        "fields": {
+            "state": 21,
+            "name": "Sakaba"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 460,
+        "fields": {
+            "state": 21,
+            "name": "Wasagu/Danko"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 461,
+        "fields": {
+            "state": 21,
+            "name": "Yauri"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 462,
+        "fields": {
+            "state": 21,
+            "name": "Zuru"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 463,
+        "fields": {
+            "state": 22,
+            "name": "Ajaokuta"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 464,
+        "fields": {
+            "state": 22,
+            "name": "Adavi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 465,
+        "fields": {
+            "state": 22,
+            "name": "Ankpa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 466,
+        "fields": {
+            "state": 22,
+            "name": "Bassa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 467,
+        "fields": {
+            "state": 22,
+            "name": "Dekina"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 468,
+        "fields": {
+            "state": 22,
+            "name": "Ibaji"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 469,
+        "fields": {
+            "state": 22,
+            "name": "Idah"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 470,
+        "fields": {
+            "state": 22,
+            "name": "Igalamela Odolu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 471,
+        "fields": {
+            "state": 22,
+            "name": "Ijumu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 472,
+        "fields": {
+            "state": 22,
+            "name": "Kogi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 473,
+        "fields": {
+            "state": 22,
+            "name": "Kabba/Bunu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 474,
+        "fields": {
+            "state": 22,
+            "name": "Lokoja"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 475,
+        "fields": {
+            "state": 22,
+            "name": "Ofu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 476,
+        "fields": {
+            "state": 22,
+            "name": "Mopa Muro"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 477,
+        "fields": {
+            "state": 22,
+            "name": "Ogori/Magongo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 478,
+        "fields": {
+            "state": 22,
+            "name": "Okehi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 479,
+        "fields": {
+            "state": 22,
+            "name": "Okene"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 480,
+        "fields": {
+            "state": 22,
+            "name": "Olamaboro"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 481,
+        "fields": {
+            "state": 22,
+            "name": "Omala"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 482,
+        "fields": {
+            "state": 22,
+            "name": "Yagba East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 483,
+        "fields": {
+            "state": 22,
+            "name": "Yagba West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 484,
+        "fields": {
+            "state": 23,
+            "name": "Asa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 485,
+        "fields": {
+            "state": 23,
+            "name": "Baruten"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 486,
+        "fields": {
+            "state": 23,
+            "name": "Edu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 487,
+        "fields": {
+            "state": 23,
+            "name": "Ilorin East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 488,
+        "fields": {
+            "state": 23,
+            "name": "Ifelodun"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 489,
+        "fields": {
+            "state": 23,
+            "name": "Ilorin South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 490,
+        "fields": {
+            "state": 23,
+            "name": "Ekiti Kwara State"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 491,
+        "fields": {
+            "state": 23,
+            "name": "Ilorin West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 492,
+        "fields": {
+            "state": 23,
+            "name": "Irepodun"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 493,
+        "fields": {
+            "state": 23,
+            "name": "Isin"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 494,
+        "fields": {
+            "state": 23,
+            "name": "Kaiama"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 495,
+        "fields": {
+            "state": 23,
+            "name": "Moro"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 496,
+        "fields": {
+            "state": 23,
+            "name": "Offa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 497,
+        "fields": {
+            "state": 23,
+            "name": "Oke Ero"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 498,
+        "fields": {
+            "state": 23,
+            "name": "Oyun"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 499,
+        "fields": {
+            "state": 23,
+            "name": "Pategi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 500,
+        "fields": {
+            "state": 24,
+            "name": "Agege"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 501,
+        "fields": {
+            "state": 24,
+            "name": "Ajeromi-Ifelodun"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 502,
+        "fields": {
+            "state": 24,
+            "name": "Alimosho"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 503,
+        "fields": {
+            "state": 24,
+            "name": "Amuwo-Odofin"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 504,
+        "fields": {
+            "state": 24,
+            "name": "Badagry"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 505,
+        "fields": {
+            "state": 24,
+            "name": "Apapa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 506,
+        "fields": {
+            "state": 24,
+            "name": "Epe"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 507,
+        "fields": {
+            "state": 24,
+            "name": "Eti Osa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 508,
+        "fields": {
+            "state": 24,
+            "name": "Ibeju-Lekki"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 509,
+        "fields": {
+            "state": 24,
+            "name": "Ifako-Ijaiye"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 510,
+        "fields": {
+            "state": 24,
+            "name": "Ikeja"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 511,
+        "fields": {
+            "state": 24,
+            "name": "Ikorodu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 512,
+        "fields": {
+            "state": 24,
+            "name": "Kosofe"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 513,
+        "fields": {
+            "state": 24,
+            "name": "Lagos Island"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 514,
+        "fields": {
+            "state": 24,
+            "name": "Mushin"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 515,
+        "fields": {
+            "state": 24,
+            "name": "Lagos Mainland"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 516,
+        "fields": {
+            "state": 24,
+            "name": "Ojo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 517,
+        "fields": {
+            "state": 24,
+            "name": "Oshodi-Isolo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 518,
+        "fields": {
+            "state": 24,
+            "name": "Shomolu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 519,
+        "fields": {
+            "state": 24,
+            "name": "Surulere Lagos State"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 520,
+        "fields": {
+            "state": 25,
+            "name": "Akwanga"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 521,
+        "fields": {
+            "state": 25,
+            "name": "Awe"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 522,
+        "fields": {
+            "state": 25,
+            "name": "Doma"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 523,
+        "fields": {
+            "state": 25,
+            "name": "Karu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 524,
+        "fields": {
+            "state": 25,
+            "name": "Keana"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 525,
+        "fields": {
+            "state": 25,
+            "name": "Keffi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 526,
+        "fields": {
+            "state": 25,
+            "name": "Lafia"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 527,
+        "fields": {
+            "state": 25,
+            "name": "Kokona"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 528,
+        "fields": {
+            "state": 25,
+            "name": "Nasarawa Egon"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 529,
+        "fields": {
+            "state": 25,
+            "name": "Nasarawa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 530,
+        "fields": {
+            "state": 25,
+            "name": "Obi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 531,
+        "fields": {
+            "state": 25,
+            "name": "Toto"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 532,
+        "fields": {
+            "state": 25,
+            "name": "Wamba"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 533,
+        "fields": {
+            "state": 26,
+            "name": "Agaie"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 534,
+        "fields": {
+            "state": 26,
+            "name": "Agwara"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 535,
+        "fields": {
+            "state": 26,
+            "name": "Bida"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 536,
+        "fields": {
+            "state": 26,
+            "name": "Borgu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 537,
+        "fields": {
+            "state": 26,
+            "name": "Bosso"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 538,
+        "fields": {
+            "state": 26,
+            "name": "Chanchaga"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 539,
+        "fields": {
+            "state": 26,
+            "name": "Edati"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 540,
+        "fields": {
+            "state": 26,
+            "name": "Gbako"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 541,
+        "fields": {
+            "state": 26,
+            "name": "Gurara"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 542,
+        "fields": {
+            "state": 26,
+            "name": "Katcha"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 543,
+        "fields": {
+            "state": 26,
+            "name": "Kontagora"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 544,
+        "fields": {
+            "state": 26,
+            "name": "Lapai"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 545,
+        "fields": {
+            "state": 26,
+            "name": "Lavun"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 546,
+        "fields": {
+            "state": 26,
+            "name": "Mariga"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 547,
+        "fields": {
+            "state": 26,
+            "name": "Magama"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 548,
+        "fields": {
+            "state": 26,
+            "name": "Mokwa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 549,
+        "fields": {
+            "state": 26,
+            "name": "Mashegu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 550,
+        "fields": {
+            "state": 26,
+            "name": "Moya"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 551,
+        "fields": {
+            "state": 26,
+            "name": "Paikoro"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 552,
+        "fields": {
+            "state": 26,
+            "name": "Rafi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 553,
+        "fields": {
+            "state": 26,
+            "name": "Rijau"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 554,
+        "fields": {
+            "state": 26,
+            "name": "Shiroro"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 555,
+        "fields": {
+            "state": 26,
+            "name": "Suleja"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 556,
+        "fields": {
+            "state": 26,
+            "name": "Tafa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 557,
+        "fields": {
+            "state": 26,
+            "name": "Wushishi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 558,
+        "fields": {
+            "state": 27,
+            "name": "Abeokuta North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 559,
+        "fields": {
+            "state": 27,
+            "name": "Abeokuta South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 560,
+        "fields": {
+            "state": 27,
+            "name": "Ado-Odo/Ota"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 561,
+        "fields": {
+            "state": 27,
+            "name": "Egbado North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 562,
+        "fields": {
+            "state": 27,
+            "name": "Ewekoro"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 563,
+        "fields": {
+            "state": 27,
+            "name": "Egbado South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 564,
+        "fields": {
+            "state": 27,
+            "name": "Ijebu North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 565,
+        "fields": {
+            "state": 27,
+            "name": "Ijebu East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 566,
+        "fields": {
+            "state": 27,
+            "name": "Ifo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 567,
+        "fields": {
+            "state": 27,
+            "name": "Ijebu Ode"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 568,
+        "fields": {
+            "state": 27,
+            "name": "Ijebu North East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 569,
+        "fields": {
+            "state": 27,
+            "name": "Imeko Afon"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 570,
+        "fields": {
+            "state": 27,
+            "name": "Ikenne"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 571,
+        "fields": {
+            "state": 27,
+            "name": "Ipokia"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 572,
+        "fields": {
+            "state": 27,
+            "name": "Odeda"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 573,
+        "fields": {
+            "state": 27,
+            "name": "Obafemi Owode"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 574,
+        "fields": {
+            "state": 27,
+            "name": "Odogbolu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 575,
+        "fields": {
+            "state": 27,
+            "name": "Remo North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 576,
+        "fields": {
+            "state": 27,
+            "name": "Ogun Waterside"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 577,
+        "fields": {
+            "state": 27,
+            "name": "Shagamu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 578,
+        "fields": {
+            "state": 28,
+            "name": "Akoko North-East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 579,
+        "fields": {
+            "state": 28,
+            "name": "Akoko North-West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 580,
+        "fields": {
+            "state": 28,
+            "name": "Akoko South-West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 581,
+        "fields": {
+            "state": 28,
+            "name": "Akoko South-East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 582,
+        "fields": {
+            "state": 28,
+            "name": "Akure North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 583,
+        "fields": {
+            "state": 28,
+            "name": "Akure South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 584,
+        "fields": {
+            "state": 28,
+            "name": "Ese Odo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 585,
+        "fields": {
+            "state": 28,
+            "name": "Idanre"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 586,
+        "fields": {
+            "state": 28,
+            "name": "Ifedore"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 587,
+        "fields": {
+            "state": 28,
+            "name": "Ilaje"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 588,
+        "fields": {
+            "state": 28,
+            "name": "Irele"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 589,
+        "fields": {
+            "state": 28,
+            "name": "Ile Oluji/Okeigbo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 590,
+        "fields": {
+            "state": 28,
+            "name": "Odigbo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 591,
+        "fields": {
+            "state": 28,
+            "name": "Okitipupa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 592,
+        "fields": {
+            "state": 28,
+            "name": "Ondo West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 593,
+        "fields": {
+            "state": 28,
+            "name": "Ose"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 594,
+        "fields": {
+            "state": 28,
+            "name": "Ondo East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 595,
+        "fields": {
+            "state": 28,
+            "name": "Owo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 596,
+        "fields": {
+            "state": 29,
+            "name": "Aiyedire"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 597,
+        "fields": {
+            "state": 29,
+            "name": "Atakunmosa West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 598,
+        "fields": {
+            "state": 29,
+            "name": "Atakunmosa East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 599,
+        "fields": {
+            "state": 29,
+            "name": "Aiyedaade"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 600,
+        "fields": {
+            "state": 29,
+            "name": "Boluwaduro"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 601,
+        "fields": {
+            "state": 29,
+            "name": "Boripe"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 602,
+        "fields": {
+            "state": 29,
+            "name": "Ife East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 603,
+        "fields": {
+            "state": 29,
+            "name": "Ede South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 604,
+        "fields": {
+            "state": 29,
+            "name": "Ife North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 605,
+        "fields": {
+            "state": 29,
+            "name": "Ede North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 606,
+        "fields": {
+            "state": 29,
+            "name": "Ife South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 607,
+        "fields": {
+            "state": 29,
+            "name": "Ejigbo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 608,
+        "fields": {
+            "state": 29,
+            "name": "Ife Central"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 609,
+        "fields": {
+            "state": 29,
+            "name": "Ifedayo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 610,
+        "fields": {
+            "state": 29,
+            "name": "Egbedore"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 611,
+        "fields": {
+            "state": 29,
+            "name": "Ila"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 612,
+        "fields": {
+            "state": 29,
+            "name": "Ifelodun"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 613,
+        "fields": {
+            "state": 29,
+            "name": "Ilesa East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 614,
+        "fields": {
+            "state": 29,
+            "name": "Ilesa West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 615,
+        "fields": {
+            "state": 29,
+            "name": "Irepodun"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 616,
+        "fields": {
+            "state": 29,
+            "name": "Irewole"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 617,
+        "fields": {
+            "state": 29,
+            "name": "Isokan"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 618,
+        "fields": {
+            "state": 29,
+            "name": "Iwo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 619,
+        "fields": {
+            "state": 29,
+            "name": "Obokun"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 620,
+        "fields": {
+            "state": 29,
+            "name": "Odo Otin"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 621,
+        "fields": {
+            "state": 29,
+            "name": "Ola Oluwa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 622,
+        "fields": {
+            "state": 29,
+            "name": "Olorunda"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 623,
+        "fields": {
+            "state": 29,
+            "name": "Oriade"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 624,
+        "fields": {
+            "state": 29,
+            "name": "Orolu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 625,
+        "fields": {
+            "state": 29,
+            "name": "Osogbo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 626,
+        "fields": {
+            "state": 30,
+            "name": "Afijio"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 627,
+        "fields": {
+            "state": 30,
+            "name": "Akinyele"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 628,
+        "fields": {
+            "state": 30,
+            "name": "Atiba"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 629,
+        "fields": {
+            "state": 30,
+            "name": "Atisbo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 630,
+        "fields": {
+            "state": 30,
+            "name": "Egbeda"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 631,
+        "fields": {
+            "state": 30,
+            "name": "Ibadan North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 632,
+        "fields": {
+            "state": 30,
+            "name": "Ibadan North-East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 633,
+        "fields": {
+            "state": 30,
+            "name": "Ibadan North-West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 634,
+        "fields": {
+            "state": 30,
+            "name": "Ibadan South-East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 635,
+        "fields": {
+            "state": 30,
+            "name": "Ibarapa Central"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 636,
+        "fields": {
+            "state": 30,
+            "name": "Ibadan South-West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 637,
+        "fields": {
+            "state": 30,
+            "name": "Ibarapa East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 638,
+        "fields": {
+            "state": 30,
+            "name": "Ido"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 639,
+        "fields": {
+            "state": 30,
+            "name": "Ibarapa North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 640,
+        "fields": {
+            "state": 30,
+            "name": "Irepo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 641,
+        "fields": {
+            "state": 30,
+            "name": "Iseyin"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 642,
+        "fields": {
+            "state": 30,
+            "name": "Itesiwaju"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 643,
+        "fields": {
+            "state": 30,
+            "name": "Iwajowa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 644,
+        "fields": {
+            "state": 30,
+            "name": "Kajola"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 645,
+        "fields": {
+            "state": 30,
+            "name": "Lagelu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 646,
+        "fields": {
+            "state": 30,
+            "name": "Ogbomosho North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 647,
+        "fields": {
+            "state": 30,
+            "name": "Ogbomosho South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 648,
+        "fields": {
+            "state": 30,
+            "name": "Ogo Oluwa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 649,
+        "fields": {
+            "state": 30,
+            "name": "Olorunsogo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 650,
+        "fields": {
+            "state": 30,
+            "name": "Oluyole"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 651,
+        "fields": {
+            "state": 30,
+            "name": "Ona Ara"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 652,
+        "fields": {
+            "state": 30,
+            "name": "Orelope"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 653,
+        "fields": {
+            "state": 30,
+            "name": "Ori Ire"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 654,
+        "fields": {
+            "state": 30,
+            "name": "Oyo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 655,
+        "fields": {
+            "state": 30,
+            "name": "Oyo East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 656,
+        "fields": {
+            "state": 30,
+            "name": "Saki East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 657,
+        "fields": {
+            "state": 30,
+            "name": "Saki West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 658,
+        "fields": {
+            "state": 30,
+            "name": "Surulere Oyo State"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 659,
+        "fields": {
+            "state": 31,
+            "name": "Bokkos"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 660,
+        "fields": {
+            "state": 31,
+            "name": "Barkin Ladi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 661,
+        "fields": {
+            "state": 31,
+            "name": "Bassa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 662,
+        "fields": {
+            "state": 31,
+            "name": "Jos East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 663,
+        "fields": {
+            "state": 31,
+            "name": "Jos North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 664,
+        "fields": {
+            "state": 31,
+            "name": "Jos South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 665,
+        "fields": {
+            "state": 31,
+            "name": "Kanam"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 666,
+        "fields": {
+            "state": 31,
+            "name": "Kanke"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 667,
+        "fields": {
+            "state": 31,
+            "name": "Langtang South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 668,
+        "fields": {
+            "state": 31,
+            "name": "Langtang North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 669,
+        "fields": {
+            "state": 31,
+            "name": "Mangu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 670,
+        "fields": {
+            "state": 31,
+            "name": "Mikang"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 671,
+        "fields": {
+            "state": 31,
+            "name": "Pankshin"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 672,
+        "fields": {
+            "state": 31,
+            "name": "Qua'an Pan"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 673,
+        "fields": {
+            "state": 31,
+            "name": "Riyom"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 674,
+        "fields": {
+            "state": 31,
+            "name": "Shendam"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 675,
+        "fields": {
+            "state": 31,
+            "name": "Wase"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 676,
+        "fields": {
+            "state": 32,
+            "name": "Abua/Odual"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 677,
+        "fields": {
+            "state": 32,
+            "name": "Ahoada East"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 678,
+        "fields": {
+            "state": 32,
+            "name": "Ahoada West"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 679,
+        "fields": {
+            "state": 32,
+            "name": "Andoni"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 680,
+        "fields": {
+            "state": 32,
+            "name": "Akuku-Toru"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 681,
+        "fields": {
+            "state": 32,
+            "name": "Asari-Toru"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 682,
+        "fields": {
+            "state": 32,
+            "name": "Bonny"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 683,
+        "fields": {
+            "state": 32,
+            "name": "Degema"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 684,
+        "fields": {
+            "state": 32,
+            "name": "Emuoha"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 685,
+        "fields": {
+            "state": 32,
+            "name": "Eleme"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 686,
+        "fields": {
+            "state": 32,
+            "name": "Ikwerre"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 687,
+        "fields": {
+            "state": 32,
+            "name": "Etche"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 688,
+        "fields": {
+            "state": 32,
+            "name": "Gokana"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 689,
+        "fields": {
+            "state": 32,
+            "name": "Khana"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 690,
+        "fields": {
+            "state": 32,
+            "name": "Obio/Akpor"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 691,
+        "fields": {
+            "state": 32,
+            "name": "Ogba/Egbema/Ndoni"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 692,
+        "fields": {
+            "state": 32,
+            "name": "Ogu/Bolo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 693,
+        "fields": {
+            "state": 32,
+            "name": "Okrika"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 694,
+        "fields": {
+            "state": 32,
+            "name": "Omuma"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 695,
+        "fields": {
+            "state": 32,
+            "name": "Opobo/Nkoro"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 696,
+        "fields": {
+            "state": 32,
+            "name": "Oyigbo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 697,
+        "fields": {
+            "state": 32,
+            "name": "Port Harcourt"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 698,
+        "fields": {
+            "state": 32,
+            "name": "Tai"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 699,
+        "fields": {
+            "state": 33,
+            "name": "Gudu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 700,
+        "fields": {
+            "state": 33,
+            "name": "Gwadabawa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 701,
+        "fields": {
+            "state": 33,
+            "name": "Illela"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 702,
+        "fields": {
+            "state": 33,
+            "name": "Isa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 703,
+        "fields": {
+            "state": 33,
+            "name": "Kebbe"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 704,
+        "fields": {
+            "state": 33,
+            "name": "Kware"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 705,
+        "fields": {
+            "state": 33,
+            "name": "Rabah"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 706,
+        "fields": {
+            "state": 33,
+            "name": "Sabon Birni"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 707,
+        "fields": {
+            "state": 33,
+            "name": "Shagari"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 708,
+        "fields": {
+            "state": 33,
+            "name": "Silame"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 709,
+        "fields": {
+            "state": 33,
+            "name": "Sokoto North"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 710,
+        "fields": {
+            "state": 33,
+            "name": "Sokoto South"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 711,
+        "fields": {
+            "state": 33,
+            "name": "Tambuwal"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 712,
+        "fields": {
+            "state": 33,
+            "name": "Tangaza"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 713,
+        "fields": {
+            "state": 33,
+            "name": "Tureta"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 714,
+        "fields": {
+            "state": 33,
+            "name": "Wamako"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 715,
+        "fields": {
+            "state": 33,
+            "name": "Wurno"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 716,
+        "fields": {
+            "state": 33,
+            "name": "Yabo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 717,
+        "fields": {
+            "state": 33,
+            "name": "Binji"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 718,
+        "fields": {
+            "state": 33,
+            "name": "Bodinga"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 719,
+        "fields": {
+            "state": 33,
+            "name": "Dange Shuni"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 720,
+        "fields": {
+            "state": 33,
+            "name": "Goronyo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 721,
+        "fields": {
+            "state": 33,
+            "name": "Gada"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 722,
+        "fields": {
+            "state": 34,
+            "name": "Ardo Kola"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 723,
+        "fields": {
+            "state": 34,
+            "name": "Bali"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 724,
+        "fields": {
+            "state": 34,
+            "name": "Donga"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 725,
+        "fields": {
+            "state": 34,
+            "name": "Gashaka"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 726,
+        "fields": {
+            "state": 34,
+            "name": "Gassol"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 727,
+        "fields": {
+            "state": 34,
+            "name": "Ibi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 728,
+        "fields": {
+            "state": 34,
+            "name": "Jalingo"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 729,
+        "fields": {
+            "state": 34,
+            "name": "Karim Lamido"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 730,
+        "fields": {
+            "state": 34,
+            "name": "Kumi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 731,
+        "fields": {
+            "state": 34,
+            "name": "Lau"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 732,
+        "fields": {
+            "state": 34,
+            "name": "Sardauna"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 733,
+        "fields": {
+            "state": 34,
+            "name": "Takum"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 734,
+        "fields": {
+            "state": 34,
+            "name": "Ussa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 735,
+        "fields": {
+            "state": 34,
+            "name": "Wukari"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 736,
+        "fields": {
+            "state": 34,
+            "name": "Yorro"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 737,
+        "fields": {
+            "state": 34,
+            "name": "Zing"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 738,
+        "fields": {
+            "state": 35,
+            "name": "Bade"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 739,
+        "fields": {
+            "state": 35,
+            "name": "Bursari"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 740,
+        "fields": {
+            "state": 35,
+            "name": "Damaturu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 741,
+        "fields": {
+            "state": 35,
+            "name": "Fika"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 742,
+        "fields": {
+            "state": 35,
+            "name": "Fune"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 743,
+        "fields": {
+            "state": 35,
+            "name": "Geidam"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 744,
+        "fields": {
+            "state": 35,
+            "name": "Gujba"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 745,
+        "fields": {
+            "state": 35,
+            "name": "Gulani"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 746,
+        "fields": {
+            "state": 35,
+            "name": "Jakusko"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 747,
+        "fields": {
+            "state": 35,
+            "name": "Karasuwa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 748,
+        "fields": {
+            "state": 35,
+            "name": "Machina"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 749,
+        "fields": {
+            "state": 35,
+            "name": "Nangere"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 750,
+        "fields": {
+            "state": 35,
+            "name": "Nguru"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 751,
+        "fields": {
+            "state": 35,
+            "name": "Potiskum"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 752,
+        "fields": {
+            "state": 35,
+            "name": "Tarmuwa"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 753,
+        "fields": {
+            "state": 35,
+            "name": "Yunusari"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 754,
+        "fields": {
+            "state": 35,
+            "name": "Yusufari"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 755,
+        "fields": {
+            "state": 36,
+            "name": "Anka"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 756,
+        "fields": {
+            "state": 36,
+            "name": "Birnin Magaji/Kiyaw"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 757,
+        "fields": {
+            "state": 36,
+            "name": "Bakura"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 758,
+        "fields": {
+            "state": 36,
+            "name": "Bukkuyum"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 759,
+        "fields": {
+            "state": 36,
+            "name": "Bungudu"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 760,
+        "fields": {
+            "state": 36,
+            "name": "Gummi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 761,
+        "fields": {
+            "state": 36,
+            "name": "Gusau"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 762,
+        "fields": {
+            "state": 36,
+            "name": "Kaura Namoda"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 763,
+        "fields": {
+            "state": 36,
+            "name": "Maradun"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 764,
+        "fields": {
+            "state": 36,
+            "name": "Shinkafi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 765,
+        "fields": {
+            "state": 36,
+            "name": "Maru"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 766,
+        "fields": {
+            "state": 36,
+            "name": "Talata Mafara"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 767,
+        "fields": {
+            "state": 36,
+            "name": "Tsafe"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 768,
+        "fields": {
+            "state": 36,
+            "name": "Zurmi"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 769,
+        "fields": {
+            "state": 37,
+            "name": "Abaji"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 770,
+        "fields": {
+            "state": 37,
+            "name": "Bwari"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 771,
+        "fields": {
+            "state": 37,
+            "name": "Gwagwalada"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 772,
+        "fields": {
+            "state": 37,
+            "name": "Kuje"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 773,
+        "fields": {
+            "state": 37,
+            "name": "Kwali"
+        }
+    },
+    {
+        "model": "django_naija_geo.lga",
+        "pk": 774,
+        "fields": {
+            "state": 37,
+            "name": "Municipal Area Council"
+        }
+    }
+]
