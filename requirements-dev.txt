@@ -1,0 +1,6 @@
+Django==4.2
+djangorestframework==3.14
+pytest==7.4
+pytest-django==4.5
+black==23.7
+isort==5.12

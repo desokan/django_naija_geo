@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "django-naija-geo"
+version = "0.1.0"
+description = "A Django package for Nigeria's geographical data (zones, states, LGAs, wards)."
+authors = [{name = "Rasheed Adesokan", email = "r.adesokan@bitesizedigital.school"}]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "Django>=3.2",
+    "djangorestframework>=3.14",
+]
