@@ -1,0 +1,32 @@
+[
+  {
+    "model": "django_naija_geo.zone",
+    "pk": 1,
+    "fields": { "name": "South-East" }
+  },
+  {
+    "model": "django_naija_geo.zone",
+    "pk": 2,
+    "fields": { "name": "North-East" }
+  },
+  {
+    "model": "django_naija_geo.zone",
+    "pk": 3,
+    "fields": { "name": "South-South" }
+  },
+  {
+    "model": "django_naija_geo.zone",
+    "pk": 4,
+    "fields": { "name": "North-Central" }
+  },
+  {
+    "model": "django_naija_geo.zone",
+    "pk": 5,
+    "fields": { "name": "South-West" }
+  },
+  {
+    "model": "django_naija_geo.zone",
+    "pk": 6,
+    "fields": { "name": "North-West" }
+  }
+]
